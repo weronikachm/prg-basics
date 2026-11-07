@@ -1,4 +1,4 @@
-from acronym_7_22 import f
+from acronym_7_22 import f 
 
 r1 = f("Internet of Things")
 r2 = f("For Your Information")
