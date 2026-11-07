@@ -1,1 +1,1 @@
-print(chr(78),chr(73),chr(71),chr(71),chr(69),chr(82))
+print(chr(99),chr(111),chr(111),chr(71),chr(108))
